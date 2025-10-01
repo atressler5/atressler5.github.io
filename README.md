@@ -1,6 +1,6 @@
 # Andrew Tressler
 Marietta, GA  
-Email | atressl2@students.kennesaw.edu
+Email | atressl2@students.kennesaw.edu           
 GitHub | https://github.com/atressler5
 
 ---
@@ -44,3 +44,4 @@ GitHub | https://github.com/atressler5
 - **Cybersecurity** | Wireshark, NFC / RFID, Linux, Windows Powershell  
 - **Radio** | CST Studio, LoRaWAN, SDRuno, SDR#, Orbitron
 - **Soft Skills** | Pattern Recognition, Communication, Discipline
+
